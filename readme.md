@@ -1,7 +1,7 @@
-#work
+#NAR
 
-Still under construction.
+This is an Android app prototype. It should be an Augmented Reality based navigation app.
 
-This should get an VR navigation app for Android devices.
+It is still under construction.
 
 #work
