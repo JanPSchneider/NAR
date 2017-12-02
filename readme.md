@@ -4,5 +4,5 @@ This is an Android app prototype. It should get an Augmented Reality based navig
 
 First thinking:
 
-![LostBrick-Menu](https://github.com/JanPSchneider/NAR/blob/master/Design_Suggestions/design1.jpg)
+![NAR-design suggestion](https://github.com/JanPSchneider/NAR/blob/master/Design_Suggestions/design1.jpg)
 
