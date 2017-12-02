@@ -1,7 +1,8 @@
-#NAR
+# NAR
 
-This is an Android app prototype. It should be an Augmented Reality based navigation app.
+This is an Android app prototype. It should get an Augmented Reality based navigation app.
 
-This should get an AR navigation app for Android devices.
+First thinking:
 
-#work
+![LostBrick-Menu](https://github.com/JanPSchneider/NAR/blob/master/Design_Suggestions/design1.jpg)
+
